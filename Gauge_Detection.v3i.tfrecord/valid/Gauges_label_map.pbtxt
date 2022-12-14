@@ -1,0 +1,15 @@
+item {
+    name: "Gauges",
+    id: 1,
+    display_name: "Gauges"
+}
+item {
+    name: "Values",
+    id: 2,
+    display_name: "Values"
+}
+item {
+    name: "needle",
+    id: 3,
+    display_name: "needle"
+}
