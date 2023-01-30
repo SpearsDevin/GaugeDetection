@@ -1,0 +1,4 @@
+item { 
+	name:'gauge'
+	id:1
+}
